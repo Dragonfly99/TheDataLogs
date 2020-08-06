@@ -2,7 +2,7 @@
 authors:
 - admin
 ##bio: My research interests include distributed robotics, mobile computing and programmable matter.
-##education:
+education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
