@@ -1,0 +1,21 @@
+---
+title: Test post
+author: Kerry Benjamin
+date: '2021-01-11'
+slug: test-post
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-11T15:26:57-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+## This is what my titles will look like
+
+This is an example of what a sentence will look like in my posts.
