@@ -18,4 +18,4 @@ projects: []
 ---
 ## This is what my titles will look like
 
-This is an example of what a sentence will look like in my posts.
+This is an example of what a sentence will look like in my posts. Checking to see changes in blogdown 1.0
