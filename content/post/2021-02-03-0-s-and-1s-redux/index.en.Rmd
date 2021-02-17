@@ -8,6 +8,7 @@ tags:
   - learning data science
   - self taught
   - python
+  - r
   
 header:
   caption: ''
