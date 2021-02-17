@@ -2,20 +2,16 @@
 title: Taking the Plunge into 0's and 1s Redux
 author: ''
 date: '2021-02-17'
-slug: 0-s-and-1s-redux
+slug: learning-data-science-and-entering-the-field
 categories: []
 tags: 
   - learning data science
   - self taught
   - python
   
-subtitle: ''
-summary: ''
-authors: []
-featured: no
-image:
+header:
   caption: ''
-  focal_point: ''
+  image: ''
   preview: yes
 ---
 
