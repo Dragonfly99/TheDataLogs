@@ -9,7 +9,7 @@ tags:
   - self taught
   - python
   - r
-draft: yes  
+draft: true  
 header:
   caption: ''
   image: ''
