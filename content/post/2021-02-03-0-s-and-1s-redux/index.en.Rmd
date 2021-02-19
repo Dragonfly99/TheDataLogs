@@ -9,7 +9,6 @@ tags:
   - self taught
   - python
   - r
-draft: true 
 header:
   caption: ''
   image: ''
